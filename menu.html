@@ -6,7 +6,7 @@ published: true
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% if post.title == 'Menu_Test' %}
+    {% if {{ post.title }} == 'Menu_Test' %}
       <div class="post">
         <h1 class="post-title">
           <a href="{{ post.url | absolute_url }}">
