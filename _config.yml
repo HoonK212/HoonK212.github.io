@@ -1,16 +1,16 @@
 # Setup
 title:               HoonK212
 tagline:             GitHub_Blog
-description:         '안녕하세요'
-url:                 https://hoonk212.github.io/
+description:         'Hoon Kim\nHoonK212\n김 훈(金 焄)'
+url:                 https://hoonk212.github.io
 baseurl:             ''
-paginate:            12
+paginate:            10
 permalink:           pretty
 
 # About/contact
 author:
   name:              Hoon Kim
-  url:               https://hoonk212.github.io/
+  url:               https://hoonk212.github.io
   email:             b0aeiou@gmail.com
 
 # Gems
