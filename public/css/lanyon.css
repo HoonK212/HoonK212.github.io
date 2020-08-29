@@ -516,7 +516,9 @@ a.pagination-item:hover {
 }
 .theme-base-0e .container a,
 .theme-base-0e .sidebar-toggle,
-.theme-base-0e .related-posts li a:hover {
+.theme-base-0e .related-posts li a:hover,
+.page-title,
+.post-title {
   color: #aa759f;
 }
 
