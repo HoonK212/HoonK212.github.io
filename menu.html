@@ -6,7 +6,6 @@ published: true
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {% if {{ post.title }} == 'Menu_Test' %}
       <div class="post">
         <h1 class="post-title">
           <a href="{{ post.url | absolute_url }}">
@@ -17,7 +16,6 @@ published: true
         <span class="post-date">{{ post.date | date_to_string }}</span>
     <!--    {{ post.content }} -->
       </div>
-    {% endif %}
   {% endfor %}
 </div>
 
