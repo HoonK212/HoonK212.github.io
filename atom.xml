@@ -8,7 +8,7 @@ layout: null
  <title>{{ site.title }}</title>
  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
  <link href="{{ site.url }}{{ site.baseurl }}/"/>
- <link href="{{ site.url }}{{ site.baseurl }}/posts"/>
+ <link href="{{ site.url }}{{ site.baseurl }}menu"/>
  <link href="{{ site.url }}{{ site.baseurl }}/menu"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
@@ -30,17 +30,17 @@ layout: null
 {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}posts"/>
+   <link href="{{ site.url }}{{ post.url }}menu"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
 
-{% for post in site.posts %}
+ {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}menu"/>
+   <link href="{{ site.url }}{{ post.url }}/menu"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
