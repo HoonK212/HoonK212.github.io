@@ -30,3 +30,6 @@ tipue_search:
         files: [search.html, index.html]
         categories: []
         tags: []
+
+# Comments (Disqus)
+discus-identifier: hoonk212-github-io
