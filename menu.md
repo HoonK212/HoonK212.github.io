@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: menu
-published: true
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.menu %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
