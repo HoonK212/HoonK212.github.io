@@ -1,29 +1,25 @@
 ---
 layout: page
-title: About
+title: 안녕하세요01
+published: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  안녕하세요02
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+안녕하세요03
 
-There are currently two themes built on Poole:
+안녕하세요04
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* 안녕하세요05
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+안녕하세요06
 
-## Setup
+## 안녕하세요07
 
-Some fun facts about the setup of this project include:
+안녕하세요08
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+* 안녕하세요09
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+안녕하세요10
