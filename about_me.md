@@ -5,17 +5,17 @@ published: true
 ---
 
 <p class="message">
-    ## 김 훈 Kim Hoon
-    * 서울
-    * email : b0aeiou@gmail.com
-    * phone : 010.7165.5300
+    김 훈 (Kim Hoon)<br>
+    * 서울<br>
+    * email : b0aeiou@gmail.com<br>
+    * phone : 010.7165.5300<br>
 </p>
 
-> KH정보교육원 보안 엔지니어 및 침해대응관리자 양성과정 수료 (2018.03 ~ 2018.09)
-> [SQI소프트 보안사업부](http://www.sqisoft.com/ko/main) (2018.11 ~ 2019.11)
-> KH정보교육원 UIUX엔지니어링 및 응용SW엔지니어링 양성과정 수료 (2018.01 ~ 2020.09)
+> KH정보교육원 보안 엔지니어 및 침해대응관리자 양성과정 수료 (2018.03 ~ 2018.09)  
+> [SQI소프트 보안사업부](http://www.sqisoft.com/ko/main) (2018.11 ~ 2019.11)  
+> KH정보교육원 UIUX엔지니어링 및 응용SW엔지니어링 양성과정 수료 (2018.01 ~ 2020.09)  
 
-## 보유 기술
+## 보유 기술  
 
 #### Programming Language
 - Java(~8), JavaScript
@@ -31,8 +31,9 @@ published: true
 
 #### Development Tool
 - Git, Eclips, Visual Studio, Visual Code, Mysql Workbench, SourceTree, Oracle VM VirtualBox, TeraTerm
+  
 
-## 대외 활동
+## 대외 활동  
 
 | 날짜 | 행사 / 모임 | 주제 |  
 |:-----:|:----------------------------:|:-------------------------------------------------------| 
