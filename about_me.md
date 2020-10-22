@@ -19,11 +19,11 @@ published: true
 
 ## 보유 기술
 
-### Programming Language
+#### Programming Language
 - Java, JavaScript, *C(currently learning)*, *Python(currently learning)*
 
 #### Framework/Library
-- Spring, Mybatis, Nexacro / jQuery, AlpineJS, Bootstrap, Tailwind
+- Spring, Mybatis, Nexacro, jQuery, AlpineJS, Bootstrap, Tailwind
 
 <!-- *React(currently learning)*, *Node.js(currently learning)* -->
 
