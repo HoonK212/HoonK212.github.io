@@ -55,7 +55,7 @@ published: true
 
 | 날짜 | 행사 / 모임 | 주제 |
 |:-----:|:----------------------------:|:-------------------------------------------------------|
-| 2020.12 | [NAVER Cloud AI SUMMIT]](https://www.ncloud-online.com/aisummit) | 우리의 삶을 변화시키는 AI 기술들에 대한 전문가의 경험을 공유하는 써밋 |
+| 2020.12 | [NAVER Cloud AI SUMMIT](https://www.ncloud-online.com/aisummit) | 우리의 삶을 변화시키는 AI 기술들에 대한 전문가의 경험을 공유하는 써밋 |
 | 2020.12 | [공개SW 페스티벌 2020](https://www.oss.kr/festival) | 오픈소스의 최신 기술 및 우수사례에 대한 이야기를 들어 볼 수 있는 축제 |
 | 2019.11 | [DevFest on Campus 2019](https://festa.io/events/654) | GDG 커뮤니티에서 열리는 개발자들의 축제 |
 | 2019.03 | [세계보안엑스포 SECON 2019](https://exhibitors.informamarkets-info.com/SECON2019/kr/) | 최신 보안기술과 트랜드를 한눈에 알수있는 컨퍼런스 |
